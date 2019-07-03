@@ -1,0 +1,11 @@
+title: Blog - OpenShift page
+
+sidebar:
+  title: A Sample OpenShjift page
+  tagline: Creating a blog layout using Pure
+
+navigation:
+  - link: http://purecss.io
+    name: Pure
+  - link: http://yuilibrary.com
+    name: YUI Library
